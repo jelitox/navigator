@@ -6,7 +6,7 @@ coverage[toml]==6.3.2
 flit==3.7.1
 ipython==8.2.0
 mypy==0.940
-pylint==2.13.5
+pylint==2.13.9
 pytest>=6.0.0
 pytest-asyncio==0.18.2
 pytest-xdist==2.1.0
