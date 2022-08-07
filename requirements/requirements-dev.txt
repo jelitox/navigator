@@ -2,7 +2,7 @@ aiounittest==1.4.1
 astroid==2.11.2
 black==22.1.0
 codecov==2.1.12
-coverage[toml]==6.3.2
+coverage[toml]==6.4.3
 flit==3.7.1
 ipython==8.2.0
 mypy==0.940
