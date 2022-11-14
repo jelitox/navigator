@@ -13,4 +13,4 @@ pytest-cov==3.0.0
 pytest-xdist==2.5.0
 pytest-assume==2.4.3
 sphinx==5.2.2
-tox==3.24.5
+tox==3.27.1
