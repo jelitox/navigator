@@ -1,5 +1,5 @@
 sphinx 
-sphinx-autobuild
+sphinx-autobuild==2024.4.16
 sphinx-rtd-theme 
 myst-parser
 sphinxcontrib-trio
