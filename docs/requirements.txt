@@ -1,4 +1,4 @@
-sphinx 
+sphinx==7.4.6 
 sphinx-autobuild
 sphinx-rtd-theme 
 myst-parser
